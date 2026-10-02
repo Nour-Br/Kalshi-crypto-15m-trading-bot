@@ -1,5 +1,7 @@
 # Kalshi crypto 15m trading bot
 
+## Contact
+TG: [ohioism](https://t.me/ohioism1)
 ## Backtesting Result
 <img width="1885" height="913" alt="image" src="https://github.com/user-attachments/assets/b60c3e0c-4370-4fba-91d2-f75e54542d33" />
 
